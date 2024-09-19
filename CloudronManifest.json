@@ -6,7 +6,7 @@
   "tagline": "A great coding adventure",
   "version": "0.0.1",
   "healthCheckPath": "/",
-  "httpPort": 8001,
+  "httpPort": 80,
   "addons": {
     "localstorage": {},
     "ldap": {},
