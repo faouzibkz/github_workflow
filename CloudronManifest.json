@@ -1,7 +1,7 @@
 {
   "id": "com.faouzi.test",
   "title": "Example FastAPI Application",
-  "author": "Benjamin",
+  "author": "Faouzi",
   "description": "This is an example of faouzi's python app",
   "tagline": "A great coding adventure",
   "version": "0.0.1",
